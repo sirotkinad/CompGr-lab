@@ -1,0 +1,9 @@
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\bin\Debug\CompGr1.exe.config
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\bin\Debug\CompGr1.exe
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\bin\Debug\CompGr1.pdb
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\obj\Debug\CompGr1.csprojAssemblyReference.cache
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\obj\Debug\CompGr1.Form1.resources
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\obj\Debug\CompGr1.Properties.Resources.resources
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\obj\Debug\CompGr1.csproj.GenerateResource.cache
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\obj\Debug\CompGr1.exe
+C:\Users\Foxy\source\repos\CompGr1\CompGr1\obj\Debug\CompGr1.pdb
